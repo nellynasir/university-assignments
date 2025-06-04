@@ -1,22 +1,22 @@
 # ArmProgramming
 
-This project simulates low-level programming logic for controlling a robotic arm.  
-It was developed for our Embedded Systems or Mechatronics-related coursework.
+This project demonstrates low-level control logic for a robotic arm using ARM Assembly (`.s` files).  
+It was developed for coursework related to Embedded Systems or Mechatronics.
 
 ## 🤖 Features
-- Control logic for robotic arm movement
-- Time delay implementation for motion simulation
-- Basic I/O operations and LED control (if on board)
+- Movement sequencing using low-level register logic
+- Time delay simulation
+- I/O control (e.g., LEDs, motors)
 
 ## 💡 Educational Focus
-- Manual movement sequencing
-- Low-level programming syntax
-- Simulated control through register-style logic
+- Manual motor control using assembly
+- Understanding low-level CPU operations
+- Register-based movement programming
 
 ## ⚙️ How to Run
-If connected to a microcontroller:
-1. Load source code via IDE like Keil or MPLAB
-2. Flash it to the board
-3. Use button inputs or sensors to test movement
+If working with actual hardware:
+1. Open the `.s` files in Keil or compatible IDE
+2. Flash to a supported ARM development board
+3. Use input/output pins to control behavior
 
-**Note:** If no board is used, code is provided for simulation/study purposes.
+**Note:** Code is also suitable for review/simulation purposes without hardware.
