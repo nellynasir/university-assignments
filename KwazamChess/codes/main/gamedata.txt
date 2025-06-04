@@ -1,0 +1,69 @@
+Save Game : 1
+Player Turn : RED
+Blue Player : Belle
+Red Player : Harumasa
+.
+BTOR BBIZ ---- BBIZ BXOR
+BRAM BSAU ---- BRAM BRAM
+---- ---- BRAM ---- ----
+---- ---- ---- ---- RSAU
+---- BRAM ---- RRAM ----
+---- ---- ---- ---- ----
+RRAM RRAM RRAM ---- RRAM
+RXOR RBIZ ---- RBIZ RTOR
+
+Save Game : 2
+Player Turn : BLUE
+Blue Player : Nelly
+Red Player : Fiza
+.
+RTOR RBIZ RSAU RBIZ RXOR
+RRAM RRAM ---- ---- ----
+---- ---- ---- BRAM ----
+---- ---- ---- ---- RRAM
+---- ---- RRAM ---- ----
+---- BRAM ---- BSAU ----
+BRAM ---- BRAM ---- BRAM
+BXOR BBIZ ---- BBIZ BTOR
+
+Save Game : 3
+Player Turn : BLUE
+Blue Player : yanagi
+Red Player : soukaku
+.
+RTOR RBIZ RSAU RBIZ ----
+RRAM ---- RRAM ---- RXOR
+---- RRAM ---- RRAM RRAM
+---- ---- ---- ---- ----
+---- ---- ---- BRAM ----
+---- ---- BRAM ---- BRAM
+BRAM BRAM ---- ---- ----
+BXOR BBIZ BSAU BBIZ BTOR
+
+Save Game : 4
+Player Turn : RED
+Blue Player : sara
+Red Player : mali
+.
+BTOR BBIZ BSAU BBIZ BXOR
+BRAM ---- BRAM BRAM BRAM
+---- ---- ---- ---- ----
+---- ---- ---- ---- ----
+---- BRAM ---- RRAM ----
+---- ---- ---- ---- ----
+RRAM RRAM RRAM ---- RRAM
+RXOR RBIZ RSAU RBIZ RTOR
+
+Save Game : 5
+Player Turn : RED
+Blue Player : Hello
+Red Player : Bye
+.
+BTOR BBIZ ---- BBIZ BXOR
+BRAM ---- BRAM BRAM BRAM
+---- ---- ---- ---- ----
+BSAU BRAM ---- ---- ----
+---- ---- ---- ---- ----
+RRAM ---- RRAM ---- ----
+---- RRAM ---- RRAM RRAM
+RXOR RBIZ RSAU RBIZ RTOR
